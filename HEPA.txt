@@ -1,0 +1,23 @@
+Classe
+define os atributos e comportamentos de um objeto
+
+Objeto
+É uma instância de uma classe.
+
+EXISTEM: (HEPA) 4 PILARES
+HERANÇA - Permite que uma classe herde atributos e métodos de outra classe
+ENCAPSULAMENTO - Esconde acessos de uma classe e permite alguns acessos
+ABSTRAÇÃO - Usa só o necessário para o código
+POLIMORFISMO - Um mesmo método pode ter mais de um comportamento
+
+PUT (ID, OBJETO)
+
+API (Conjunto de métodos prontos que facilitam o desenvolvimento)
+Nem toda API precisa ser public
+
+Return em Java
+
+Encerrar a execução de um método
+Retornar um valor
+
+
